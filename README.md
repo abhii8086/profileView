@@ -1,4 +1,5 @@
-[![MasterHead](https://thumbs.gfycat.com/DelayedEmotionalAustrianpinscher-size_restricted.gif)](https://arjeet8086.io)
+
+<img align="center" alt="Coding" width="1000" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
 
 <h1 align="center">Hi 👋, I'm Abhijeet Sharma</h1>
 <h3 align="center">Coding Anthusiast</h3>
