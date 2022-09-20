@@ -1,8 +1,8 @@
-[![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b761176c67c2696530c467f5172debd3f13474f62dd94&rid=giphy.gif&ct=g)](https://arjeet8086.io)
+[![MasterHead](https://thumbs.gfycat.com/DelayedEmotionalAustrianpinscher-size_restricted.gif)](https://arjeet8086.io)
 
 <h1 align="center">Hi 👋, I'm Abhijeet Sharma</h1>
 <h3 align="center">Coding Anthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjeet8086&label=Profile%20views&color=0e75b6&style=flat" alt="arjeet8086" /> </p>
 
